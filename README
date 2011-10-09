@@ -9,3 +9,12 @@ Features:
 for links to amazon.
 - Rank linked books by tweet count.
 - Show who linked each book.
+
+Backlog:
+- Create fake account on Twitter (@amatweep)
+- Read one post of fake account
+- Determine if post has link to amazon
+- Follow HTTP redirects
+- Read all posts of a person and determine links
+- Count multiple posts for same book
+- Read all posts of all persons
