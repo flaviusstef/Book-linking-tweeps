@@ -1,0 +1,11 @@
+Book linking tweeps
+===================
+
+This is a toy project (in Java) to experiment
+with the #GOOS style of TDD.
+
+Features:
+- Mine twitter streams of your followed tweeps
+for links to amazon.
+- Rank linked books by tweet count.
+- Show who linked each book.
